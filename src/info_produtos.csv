@@ -1,0 +1,16 @@
+produto_id,nome_produto,tipo,peso_medio,marca
+1,Maçã,Fruta,0.15,DoceVida
+2,Cenoura,Legume,0.10,NaturalRaiz
+3,Alface,Verdura,0.25,VerdeFresco
+4,Filé de Frango,Carne,1.00,GranjaBoa
+5,Suco de Laranja,Bebida,1.00,SucoPronto
+6,Banana,Fruta,0.12,DoceVida
+7,Batata,Legume,0.20,NaturalRaiz
+8,Tomate,Verdura,0.18,VerdeFresco
+9,Carne Bovina,Carne,1.20,GranjaBoa
+10,Refrigerante,Bebida,2.00,SucoPronto
+11,Pera,Fruta,0.16,DoceVida
+12,Abobrinha,Legume,0.22,NaturalRaiz
+13,Rúcula,Verdura,0.12,VerdeFresco
+14,Peito de Frango,Carne,1.10,GranjaBoa
+15,Água Mineral,Bebida,0.50,SucoPronto

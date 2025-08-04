@@ -1,0 +1,3 @@
+entrada,saida,validade_dias,dia_semana,categoria,fornecedor,preco_unitario,promocao,feriado,temperatura_media,previsao
+50,20,15,1,Fruta,Outro,45.0,Sim,Sim,50.0,17.6
+150,50,20,1,Doce,Outro,15.9,Sim,Não,50.0,16.4
