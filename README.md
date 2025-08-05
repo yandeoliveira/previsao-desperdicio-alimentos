@@ -215,12 +215,11 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 🙋‍♂️ Autores
 
-- **Seu Nome** - *Trabalho inicial* - [SeuGitHub](https://github.com/seu-usuario)
-- **Nome Colega** - *Documentação e testes* - [GitHubColega](https://github.com/colega)
+- **Yan de Oliveira** - *Trabalho inicial* - [Meu Git Hub](https://github.com/yandeoliveira)
 
 ## 🎓 Agradecimentos
 
-- Agradecemos à UniOpet pelo apoio no desenvolvimento deste projeto
+- Agradeço imensamente à UniOpet pelo apoio no desenvolvimento deste projeto
 - Inspirado na luta global contra o desperdício de alimentos
 - Dados fornecidos por estabelecimentos parceiros
 
